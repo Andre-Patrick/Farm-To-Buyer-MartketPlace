@@ -1,8 +1,10 @@
-export const firebaseConfig = {
-    apiKey: "YOUR_API_KEY",
-    authDomain: "YOUR_AUTH_DOMAIN",
-    projectId: "YOUR_PROJECT_ID",
-    storageBucket: "YOUR_STORAGE_BUCKET",
-    messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-    appId: "YOUR_APP_ID"
-  };
+const firebaseConfig = {
+  apiKey: "AIzaSyCMfIP_yGR7uA1IV4chUUFwuPDn6RQstyE",
+  authDomain: "farm-to-buyer-marketplace.firebaseapp.com",
+  projectId: "farm-to-buyer-marketplace",
+  storageBucket: "farm-to-buyer-marketplace.firebasestorage.app",
+  messagingSenderId: "201166202378",
+  appId: "1:201166202378:web:23a03b000edc83f16d61f3"
+};
+
+export { firebaseConfig };
