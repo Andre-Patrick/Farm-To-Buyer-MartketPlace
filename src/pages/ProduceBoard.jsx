@@ -12,6 +12,7 @@ const ProduceBoard = () => {
     { name: 'Organic Apples', price: 3.49, unit: '1kg', farmer: 'Charles Greenfelder' },
     { name: 'Heirloom Tomatoes', price: 4.25, unit: '1kg', farmer: 'Cesar Ankunding' },
     { name: 'Baby Carrots', price: 2.15, unit: '500g', farmer: 'Abel Schoen' },
+
     { name: 'Rainbow Chard', price: 3.75, unit: 'bunch', farmer: 'Evan Brekke' },
     { name: 'Fresh Basil', price: 1.99, unit: '100g', farmer: 'Hugh Pagac' },
     { name: 'Organic Spinach', price: 2.99, unit: 'bunch', farmer: 'Mrs. Dixie Nolan' },
